@@ -1,0 +1,21 @@
+{
+  "name": "1818-theme",
+  "displayName": "1818 Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "1818 Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/1818 Theme-color-theme.json"
+      }
+    ]
+  }
+}
