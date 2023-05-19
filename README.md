@@ -4,7 +4,7 @@
 
 1818 is a visually pleasing and minimalist theme for Visual Studio Code. It aims to provide a comfortable and distraction-free coding environment with its elegant color palette and thoughtful design choices.
 
-![Preview](https://raw.githubusercontent.com/FrontDevR/1818/main/preview_theme.png)
+![Preview](https://raw.githubusercontent.com/FrontDevR/1818-theme/main/preview_theme.png)
 
 # Installation
 
