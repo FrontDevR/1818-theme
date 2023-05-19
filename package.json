@@ -4,6 +4,7 @@
   "description": "Immerse yourself in a coding experience like no other with our 1818 theme. Designed to enhance focus and productivity for front-end development projects.",
   "version": "0.0.1",
   "icon": "logo.png",
+  "publisher": "FrontDevR",
   "engines": {
     "vscode": "^1.78.0"
   },
